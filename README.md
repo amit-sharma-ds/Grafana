@@ -1,1 +1,1 @@
-# Grafana Notes
+# Grafana Note
